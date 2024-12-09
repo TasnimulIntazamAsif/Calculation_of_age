@@ -20,6 +20,7 @@ This application is designed to calculate a person's age based on their birthdat
 
 * Python 3.x
 * PyQt5 library
+![Screenshot 2024-12-09 221843](https://github.com/user-attachments/assets/8848ba8a-4a27-4c14-9b17-081fa663cef1)
 
 ## Installation
 
